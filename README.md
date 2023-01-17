@@ -5,7 +5,7 @@ Zolui is a leading cheap domain, hosting service provider. As our reseller progr
 
 Installation Process: 
 
-Upload this module to your root whmcs directory. 
+Upload this module to your root whmcs directory.
 To active register module from Go to 
 Setting icon > System Settings > Domain Registrars 
 Find Zolui Domain Reseller from the menu and active it. Then go to Configure Button You will find the menu like below.
